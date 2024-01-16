@@ -115,7 +115,7 @@ void BitcoinExchange::processInput(const std::string& inputFile) {
                     }
                     if (value < 0) {
                         std::cout << "Error: not a positive number." << std::endl;
-                    } else if (value > INT_MAX) {
+                    } else if (value > 1000) {
                         std::cout << "Error: too large a number." << std::endl;
                     } else {
                         double exchangeRate = it->second;
