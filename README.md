@@ -5,7 +5,6 @@ These are my solutions for 42 curriculum cpp modules. The idea was to learn the 
 - [CPP Modules](#cpp-modules)
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#usage)
 
 ## Description
 This repository contains 10 modules of C++ exercises, each module handels different subject matters, starting from easier consepts and moving to more difficult ones.
